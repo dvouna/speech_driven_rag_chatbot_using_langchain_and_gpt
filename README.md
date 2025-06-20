@@ -11,7 +11,7 @@ DashMate is your intelligent, audio-powered assistant for understanding your car
 ## Overview 
 This project demonstrates how to build a voice-interactive Retrieval-Augmented Generation (RAG) chatbot. Navigating complex car manuals and deciphering cryptic dashboard warnings can be a headache. DashMate solves this by leveraging advanced AI to transform dense technical documentation into easily digestible audio responses. It's like having an expert mechanic or a detailed car manual available instantly, just by asking. It integrates Whisper for audio transcription, LangChain for chaining logic and document indexing, and OpenAI APIs for text generation and speech synthesis. 
 
-### Use Case
+## Use Case 
 Imagine you’re driving and a warning light appears—what does it mean? This chatbot allows users to ask such questions aloud. It transcribes the audio, pulls context from a car manual PDF using vector search, and returns an AI-generated, human-like spoken answer.
 
 ## Features
